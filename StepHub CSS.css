@@ -1,0 +1,28 @@
+* {
+    background-color: black;
+ color: orange; 
+ font-family: Arial, Helvetica, sans-serif;
+ text-decoration: = underline;
+    }
+
+img {
+
+    max-width: 50%;
+    max-height: 50%;
+}
+
+h3{
+
+    size: 34px;
+}
+
+.balls {
+    max-width: 40%;
+    max-height: 40%;
+}
+
+video {
+
+    max-width: 40%;
+    max-height: 40%;
+}
